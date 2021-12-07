@@ -1,0 +1,17 @@
+Requirement already satisfied: gym in c:\users\faizan\anaconda3\lib\site-packages (0.17.2)
+Collecting gym
+  Downloading gym-0.21.0.tar.gz (1.5 MB)
+Requirement already satisfied: numpy>=1.18.0 in c:\users\faizan\anaconda3\lib\site-packages (from gym) (1.20.1)
+Requirement already satisfied: cloudpickle>=1.2.0 in c:\users\faizan\anaconda3\lib\site-packages (from gym) (1.3.0)
+Building wheels for collected packages: gym
+  Building wheel for gym (setup.py): started
+  Building wheel for gym (setup.py): finished with status 'done'
+  Created wheel for gym: filename=gym-0.21.0-py3-none-any.whl size=1616824 sha256=51f667653a0b2ea5851ce3ae2c2352551bb1dfe33fba7067dff2548fddcc0cab
+  Stored in directory: c:\users\faizan\appdata\local\pip\cache\wheels\27\6d\b3\a3a6e10704795c9b9000f1ab2dc480dfe7bed42f5972806e73
+Successfully built gym
+Installing collected packages: gym
+  Attempting uninstall: gym
+    Found existing installation: gym 0.17.2
+    Uninstalling gym-0.17.2:
+      Successfully uninstalled gym-0.17.2
+Successfully installed gym-0.21.0
